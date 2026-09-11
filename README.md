@@ -9,4 +9,9 @@ Building serial communication protocols at the RTL level requires precise synchr
 <img width="1152" height="695" alt="لقطة شاشة 2026-09-11 170829" src="https://github.com/user-attachments/assets/f1806708-379d-4b35-bd28-c32ad8544073" />
 <img width="537" height="577" alt="لقطة شاشة 2026-09-11 171018" src="https://github.com/user-attachments/assets/a1009454-b4aa-4dfc-9cff-e424de0c13cb" />
 <img width="1390" height="350" alt="لقطة شاشة 2026-09-11 171047" src="https://github.com/user-attachments/assets/9a5de042-f10e-4e01-aa48-fb3d608792c9" />
+<img width="487" height="307" alt="لقطة شاشة 2026-09-11 171155" src="https://github.com/user-attachments/assets/e0258ec6-2651-4445-865f-ea117dfa88b7" />
+<img width="472" height="372" alt="لقطة شاشة 2026-09-11 171232" src="https://github.com/user-attachments/assets/63a6cacf-ffc0-40c4-95c6-4df27a1a9a7a" />
+<img width="1485" height="610" alt="لقطة شاشة 2026-09-11 172047" src="https://github.com/user-attachments/assets/a252fe79-2db6-4e98-bfe9-4f4423319c33" />
+<img width="1552" height="680" alt="لقطة شاشة 2026-09-11 172131" src="https://github.com/user-attachments/assets/affaf3e4-1c4a-409b-99d2-944eb487d970" />
+<img width="1557" height="653" alt="لقطة شاشة 2026-09-11 172209" src="https://github.com/user-attachments/assets/b90584b0-b68e-457c-a21b-97407b78f1e6" />
 
